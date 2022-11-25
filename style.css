@@ -1,0 +1,50 @@
+body {
+    background: white;
+}
+
+#pol {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+p{
+    font-size: arial rgb(0, 0, 0);
+}
+
+#missao {
+    font-size: 20px;
+}
+ h2 {
+    text-align: center;
+ }
+
+ h2{
+    color: white;
+ }
+
+ h3{
+    text-align: center;
+ }
+
+ h3{
+    color: white;
+ }
+
+ .principal{
+    background: rgb(153, 27, 27);
+ }
